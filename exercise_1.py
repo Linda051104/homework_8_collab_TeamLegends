@@ -10,5 +10,3 @@ print(replace_last([1]))
 print(replace_last([]))
 
 
-
-
